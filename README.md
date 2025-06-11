@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  <img src="image/Logo.png" width="50%"/>
+  <img src="./profile/image/Logo.png" width="50%"/>
   <br />
 </div>
 
