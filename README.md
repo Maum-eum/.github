@@ -37,19 +37,19 @@
 <table>
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/dalcheonroadhead">
-            <img src="image/전수민.jpg" width="120px" /> <br><br> 🎨 전수민 <br>(PM) </a> <br></td>
+            <img src="./profile/image/전수민.jpg" width="120px" /> <br><br> 🎨 전수민 <br>(PM) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/GEISHAz">
-            <img src="image/정민호.jpg" width="120px" /> <br><br> 👑 정민호 <br>(Back-End) </a> <br></td>
+            <img src="./profile/image/정민호.jpg" width="120px" /> <br><br> 👑 정민호 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/connorcoco">
-            <img src="image/박성현.png" width="120px" /> <br><br> 🎮 박성현 <br>(Back-End) </a> <br></td>
+            <img src="./profile/image/박성현.png" width="120px" /> <br><br> 🎮 박성현 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/Hszoo">
-            <img src="image/홍성주.jpg" width="120px" /> <br><br> 🐰 홍성주 <br>(Back-End) </a> <br></td>
+            <img src="./profile/image/홍성주.jpg" width="120px" /> <br><br> 🐰 홍성주 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/ByeongJo-Park">
-            <img src="image/박병조.jpg" width="120px" /> <br><br> ⚽ 박병조 <br>(Front-End) </a> <br></td>
+            <img src="./profile/image/박병조.jpg" width="120px" /> <br><br> ⚽ 박병조 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/Anjihee">
-            <img src="image/안지희.png" width="120px" /> <br><br> 💎 안지희 <br>(Front-End) </a> <br></td>
+            <img src="./profile/image/안지희.png" width="120px" /> <br><br> 💎 안지희 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/Jsub22">
-            <img src="image/정수빈.png" width="120px" /> <br><br> 🥨 정수빈 <br>(Front-End) </a> <br></td>
+            <img src="./profile/image/정수빈.png" width="120px" /> <br><br> 🥨 정수빈 <br>(Front-End) </a> <br></td>
     </tr>
 </table>
 </div>
@@ -149,7 +149,7 @@
 
 | 서비스 최초 화면 |
 |--------------|
-|<img src = "image/메인페이지.gif" width="600">|
+|<img src = "./profile/image/메인페이지.gif" width="600">|
 | 메인페이지에서 요양보호사 및 관리자로 회원가입 및 로그인이 가능합니다.|
 
 <br><br>
@@ -174,7 +174,7 @@
 
 | 요양보호사 추천 페이지 |
 |-------------------|
-|<img src = "image/.gif" width="600">|
+|<img src = "./profile/image/.gif" width="600">|
 |요양보호사의 구직 조건과 관리자의 구인조건을 비교하여 요양보호사를 추천합니다.<br> 2.시간, 장소, 근무조건등을 비교하여 최적의 매칭추천을 제공합니다.|
 
 <br><br>
@@ -183,17 +183,17 @@
 
 | 관리자 메인페이지 (대시보드 페이지)|  
 |-------------------------|
-| <img src="image/.gif" width="600"> |
+| <img src="./profile/image/.gif" width="600"> |
 | 1. 관리자는 메인페이지를 통해 센터의 매칭 상황 및 통계를 확인할 수 있습니다. <br> 2. 어르신 등록 및 구인 조건 등록 또한 가능합니다. | 어르신의 조건과 요양보호사의 근무조건에 따라 매칭된 요양보호사에 대하여 근무요청을 보낼 수 있습니다.|
 
 | 구인 등록 페이지 |
 |---------------------|
-| <img src="profile/image/CREATE.gif" width="600"> |
+| <img src="./profile/image/CREATE.gif" width="600"> |
 |관리자는 어르신별 구인조건을 작성함으로써 필요한 근무환경을 세팅할 수 있습니다.|
 
 | 근무 요청 페이지 | 근무 요청 응답페이지 | 
 |--------------|-----------------|
-|<img src = "image/.gif" width="600">|<img src = "image/.gif" width="600">|
+|<img src = "./profile/image/.gif" width="600">|<img src = "./profile/image/.gif" width="600">|
 ||요청받은 근무요청에 대해 수락/조율/거절 응답을 보낼 수 있습니다.|
 
 <br><br>
@@ -210,7 +210,7 @@ https://solar-spot-733.notion.site/API-3afd7f311614419384622eda0cd66e6a?pvs=73
 
 > **📊 ERD**
 <div align="middle">
-  <img src="image/ERD.png" width="100%"/>
+  <img src="./profile/image/ERD.png" width="100%"/>
   <br />
 </div>
 
