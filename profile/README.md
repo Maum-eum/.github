@@ -40,7 +40,7 @@
             <img src="image/전수민.jpg" width="120px" /> <br><br> 🎨 전수민 <br>(PM) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/GEISHAz">
             <img src="image/정민호.jpg" width="120px" /> <br><br> 👑 정민호 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/connorcoco">
+        <td height="140px" align="center"> <a href="https://github.com/wooodypark">
             <img src="image/박성현.png" width="120px" /> <br><br> 🎮 박성현 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/Hszoo">
             <img src="image/홍성주.jpg" width="120px" /> <br><br> 🐰 홍성주 <br>(Back-End) </a> <br></td>
